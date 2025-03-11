@@ -7,7 +7,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBqeHlzY3JjdGc5NGZkdDlnNzB0a2ZpMGgwdXIyNWhudDJsd25ndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0yDs1uIaBD8LrlwId/giphy.gif" />
+<img align="right" height="200" src="https://cdn.discordapp.com/attachments/1294844970582282352/1349026532697444404/patrick-patrick-star.gif?ex=67d19a5d&is=67d048dd&hm=8afb01617f18cf28ad0f15a90a3b44d67f86c867d9e01396608e2f0337fef09f&" />
 
 ### 
 
